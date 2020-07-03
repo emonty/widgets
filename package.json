@@ -4,7 +4,7 @@
   "description": "Curator Widgets - Social media aggregator widgets",
   "homepage": "https://github.com/curatorio/widgets",
   "repository": "https://github.com/curatorio/widgets",
-  "main": "dist/curator.core.js",
+  "main": "dist/js/curator.core.js",
   "author": {
     "name": "Thomas Garrood",
     "email": "thomas@curator.io",
